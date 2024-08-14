@@ -11,7 +11,7 @@ View Recipes: All the saved recipes can be viewed with their details.
 Technologies Used
 Backend: Python, Flask
 Database: MySQL
-Frontend: HTML, CSS (optional if applicable)
+Frontend: HTML, CSS 
 API: RESTful API
 Version Control: Git, GitHub
 
