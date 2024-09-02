@@ -3,9 +3,9 @@ Recipe Management System
 Overview
 The Recipe Management System is a web application built using Python, Flask, and MySQL. This platform allows users to create, edit, delete, and manage their favorite recipes. The application provides a user-friendly interface and RESTful APIs to interact with the MySQL database where all the recipe data is stored.
 
-Features
-Create Recipes: Users can add new recipes by providing necessary details such as name, ingredients, and preparation steps.
+Features:
 
+Create Recipes: Users can add new recipes by providing necessary details such as name, ingredients, and preparation steps.
 Edit Recipes: Existing recipes can be updated with new information or modified as per the user's needs.
 Delete Recipes: Users can remove recipes that are no longer needed.
 View Recipes: All the saved recipes can be viewed with their details.
